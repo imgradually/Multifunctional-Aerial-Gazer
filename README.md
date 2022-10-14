@@ -1,6 +1,6 @@
 # Multifunctional-Aerial-Gazer
-Face tracking drone with Tello EDU
-It served as an AI photographer that keep track of its user's face.
+- Face tracking drone with Tello EDU
+- It served as an AI photographer that keep track of its user's face
 
 ## features
 - hand gesture recognition: drone control
